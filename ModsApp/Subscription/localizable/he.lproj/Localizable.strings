@@ -1,0 +1,186 @@
+/*
+  LocalizableSubscription.strings
+  Equalizer - Volume Booster EQ
+
+  Created by User on 04.05.2023.
+  
+*/
+
+/**/
+"iOSAfterID"="* ניסיון זה מתחדש אוטומטית למנוי בתשלום ותמשיך להתחדש אוטומטית עד שתבטל. * אתה צריך להיות מנוי כדי להשתמש באפליקציה זו. אין תוכן חינמי. * תשלומי מנוי יחויבו בחשבון iTunes שלך עם אישור הרכישה. * מינויים יתחדשו אוטומטית והתשלום יחויב בחשבון iTunes שלך, אלא אם החידוש האוטומטי כבוי לפחות 24 שעות לפני תום התקופה הנוכחית. עלות החידוש תלויה בתוכנית המנוי שלך. תוכניות המנוי הסטנדרטיות שלנו הן: * מנוי לשבוע אחד (%@) עבור מטבעות אחרים, המחיר מתאים לאותה דרגת מחיר במטריצת התמחור של App Store. * מנוי עם תקופת ניסיון חינם יתחדש אוטומטית למנוי בתשלום. אתה יכול לבטל או לנהל את החידוש האוטומטי של תקופת הניסיון בחינם שלך בהגדרות החשבון שלך לאחר הרכישה. הביטול ייכנס לתוקף 24 שעות לאחר היום האחרון של תקופת המנוי הנוכחית ותשודרג לשירות החינמי. * שימו לב: כל חלק שלא נעשה בו שימוש מתקופת ניסיון חינם של 3 ימים (אם מוצעת) יבוטל בעת רכישת מנוי פרימיום במהלך תקופת הניסיון בחינם. אנא, למידע נוסף עיין במדיניות הפרטיות ובתנאי השימוש שלנו.";
+/**/
+"iOSButtonID"="לְהַמשִׁיך";
+/**/
+"iOSStart3daysTitleID"="התחל 3 ימים בחינם ואז 4.99 $ לשבוע";
+
+/**/
+"LoadingID"="טוען";
+
+/**/
+"PrivacyID"="מדיניות הפרטיות";
+
+/**/
+"restore"="לשחזר";
+
+/**/
+"TermsID"="תנאי שימוש";
+
+/**/
+"SliderID1"="קבל את מיקום שריון האלוהות העז";
+/**/
+"SliderID2"="מצא 5 יכולות של החכמים ויער קורוק";
+/**/
+"SliderID3"="כל המערות והבארות במפה";
+/**/
+"SliderID4"="כל 152 המקדשים במפה האינטראקטיבית";
+/**/
+"SliderID5"="אסוף את כל מערכות השריון לפי מיקומים";
+
+/**/
+"Text0ID"="בחר את ערכת השריון שלך";
+
+/**/
+"Text17ID"="בחר את היכולת הרצויה";
+
+/**/
+"Text18ID"="יכולת Amiibo";
+
+/**/
+"Text19ID"="יכולת פיוז";
+
+/**/
+"Text20ID"="יכולת עלייה";
+
+/**/
+"Text21ID"="יכולת זכירה";
+
+/**/
+"Text22ID"="יכולת מצלמה";
+
+/**/
+
+"Text30ID"="בעיית קישוריות";
+"Text31ID"="נראה שהחיבור לאינטרנט לא מקוון ☹️";
+
+
+"continue" = "Continue";
+"textFirst" = "TEXT TEXT TEXT TEXT
+TEXT TEXT TEXT ";
+"textSecond" = "TEXT TEXT TEXT TEXT
+TEXT TEXT TEXT ";
+
+
+"view1Content1" = "TEXT TEXT";
+"view1Content2" = "TEXT TEXT";
+"view1Content3" = "TEXT TEXT";
+"view1Content4" = "TEXT TEXT";
+"view1Content5" = "TEXT TEXT";
+"view1Content6" = "TEXT TEXT";
+"view1Content7" = "TEXT TEXT";
+"view1Content8" = "TEXT TEXT";
+"view1Content9" = "TEXT TEXT";
+"view1Content10" = "TEXT TEXT";
+
+"view2Content1" = "TEXT TEXT";
+"view2Content2" = "TEXT TEXT";
+"view2Content3" = "TEXT TEXT";
+"view2Content4" = "TEXT TEXT";
+"view2Content5" = "TEXT TEXT";
+"view2Content6" = "TEXT TEXT";
+"view2Content7" = "TEXT TEXT";
+"view2Content8" = "TEXT TEXT";
+"view2Content9" = "TEXT TEXT";
+"view2Content10" = "TEXT TEXT";
+
+
+"slider_one" = "TEXT TEXT TEXT TEXT
+TEXT TEXT TEXT ";
+"slider_two" = "TEXT TEXT TEXT TEXT
+TEXT TEXT TEXT ";
+"slider_three" = "TEXT TEXT TEXT TEXT
+TEXT TEXT TEXT ";
+"slider_four" = "TEXT TEXT TEXT TEXT
+TEXT TEXT TEXT ";
+"slider_five" = "TEXT TEXT TEXT TEXT
+TEXT TEXT TEXT ";
+
+
+"restore" = "Restore";
+"price_label" = "Start 3-days for FREE \n Then 000000000 /week";
+"price_label_bold" = " $5.99";
+
+"agreement_full_text" = "* This trial automatically renews into a paid subscription and will continue to automatically renew until you cancel.* You need to be subscribed to use this app. No free content.* Subscription payments will be charged to your iTunes account at confirmation of your purchase.* Subscriptions will automatically renew and payment will be charged to your iTunes account unless auto-renew is turned off at least 24 hours prior to the end of the current period. The cost of the renewal depends on your Subscription Plan. Our standard Subscription Plans are:* 1-week Subscription (000000000).  For other currencies, the price corresponds to the same price tier on the App Store Pricing Matrix.* Subscription with a free trial period will automatically renew to a paid subscription. You can cancel or manage your free trial’s auto-renewal in your Account Settings after purchase. The cancellation will take effect 24-hours after the last day of the current subscription period and you will be downgraded to the free service.* Please note: any unused portion of a free trial period of 3 days(if offered) will be forfeited when you purchase a premium subscription during the free trial period.Please, for more information see our Privacy Policy and Terms of Use.";
+"terms_of_use" = "Terms of Use";
+"privacy_policy" = "Privacy Policy";
+
+"error_iap" = "Error";
+"inval_prod_id" = "Invalid product";
+"faledRestore" = "Faled to restore";
+"notPurchases" = "You not have purchases";
+
+"melonMods" = "MELON MODS";
+"emptyLabel" = "NO SAVED WORKS YET";
+
+"downloadLabel" = "download";
+"shareLabel" = "share";
+"startEditModeLabel" = "Start Edit Mode";
+"modDescription" = "Mod Description";
+"subsInfo" = "SUBSCRIPTION INFO";
+"settings" = "settings";
+"categoriesLabel" = "categories";
+"loading" = "Loading";
+"Can’t save mod without name" = "Can’t save mod without name";
+
+"My_Works" = "MY WORKS";
+"Mods_" = "MODS";
+"Editor_" = "EDITOR";
+
+"MISC TEMPLATES" = "MISC TEMPLATES";
+"LIVING TEMPLATES" = "LIVING TEMPLATES";
+
+"SET ITEM SETTINGS" = "SET ITEM SETTINGS";
+"SET COLLIDERS" = "SET COLLIDERS";
+"SELECT TEXTURE" = "SELECT TEXTURE";
+"SET PROPRTIES" = "SET PROPERTIES";
+
+"search" = "Name";
+
+
+"success" = "Success";
+"success_completed" = "Action done!";
+
+"show_all" = "VIEW ALL";
+
+"Subscription" = "Subscription";
+"watchVideo" = "Watch Video";
+
+"firstLabel_s" = "Hooray!";
+"descriptionTitle_s" = "You have received an exclusive offer for a subscription to Melon Playground!
+Our paid subscription will give you access to the full collection of tools and skins, which will help you create even more Blue scenes. ";
+"thirdLabel_s" = "Click the \"Subscribe\" button and start creating your masterpieces today!";
+"actionTitle_s" = "Subscribe!";
+
+"firstLabel_w" = "Welcome to Melon Playground.";
+"descriptionTitle_w" = "To start playing and enjoying this exciting platform, we invite you to watch our short video and get an Blue prize.";
+"thirdLabel_w" = "Click on the \"Watch now\" button and enjoy our game to the fullest!";
+"actionTitle_w" = "Watch now";
+
+"Enabled" = "Enabled";
+"Disabled" = "DISABLED";
+"saveChange" = "Do you want to save changes?";
+"cancel" = "Cancel";
+
+"nothingToSave" = "Nothing to saved";
+
+"successDownloadFile" = "Downloading successful";
+"successDownloadFile2" = "File saved at `Files`";
+
+"wait" = "Waiting";
+
+"load_texture" = "LOAD TEXTURE:";
+
+"noName" = "Can't save mod without name";
+"noInternetConnection" = "No internet connection";
+
+
+

@@ -1,0 +1,19 @@
+{
+  "images" : [
+    {
+      "filename" : "Union (2).pdf",
+      "idiom" : "iphone"
+    },
+    {
+      "filename" : "Union-1.pdf",
+      "idiom" : "ipad"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}

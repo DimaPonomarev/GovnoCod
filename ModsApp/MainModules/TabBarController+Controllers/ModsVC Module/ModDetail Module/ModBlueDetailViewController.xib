@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="21507" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21505"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="ModBlueDetailViewController" customModule="ModsApp" customModuleProvider="target">
+            <connections>
+                <outlet property="customNavBar" destination="w7L-mJ-t8s" id="jXH-fM-kjG"/>
+                <outlet property="navBarImage" destination="x2L-rU-3Q0" id="9JM-1g-AYa"/>
+                <outlet property="topTitle" destination="FWo-4q-K43" id="Aig-9I-ewy"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="x2L-rU-3Q0">
+                    <rect key="frame" x="0.0" y="0.0" width="393" height="129"/>
+                    <color key="backgroundColor" name="CornflowerBlue"/>
+                </imageView>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="w7L-mJ-t8s" userLabel="customNavBar">
+                    <rect key="frame" x="0.0" y="59" width="393" height="70"/>
+                    <subviews>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Eyc-Hm-vsJ" userLabel="infoButton">
+                            <rect key="frame" x="20" y="10.666666666666671" width="49" height="49"/>
+                            <constraints>
+                                <constraint firstAttribute="width" secondItem="Eyc-Hm-vsJ" secondAttribute="height" multiplier="1:1" id="wqT-rk-lAY"/>
+                            </constraints>
+                            <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                            <state key="normal" backgroundImage="back"/>
+                            <connections>
+                                <action selector="back:" destination="-1" eventType="touchUpInside" id="yiU-Y3-XXH"/>
+                            </connections>
+                        </button>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="5" adjustsFontForContentSizeCategory="YES" translatesAutoresizingMaskIntoConstraints="NO" id="FWo-4q-K43">
+                            <rect key="frame" x="81" y="0.0" width="231" height="70"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                            <nil key="textColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                    </subviews>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstAttribute="bottom" secondItem="FWo-4q-K43" secondAttribute="bottom" id="3HO-mI-5C9"/>
+                        <constraint firstItem="FWo-4q-K43" firstAttribute="top" secondItem="w7L-mJ-t8s" secondAttribute="top" id="5R0-8d-bm6"/>
+                        <constraint firstItem="Eyc-Hm-vsJ" firstAttribute="height" secondItem="w7L-mJ-t8s" secondAttribute="height" multiplier="0.7" id="EjQ-NO-7R1"/>
+                        <constraint firstAttribute="height" constant="70" id="n8B-ju-Hhv">
+                            <variation key="heightClass=regular-widthClass=regular" constant="120"/>
+                        </constraint>
+                        <constraint firstItem="Eyc-Hm-vsJ" firstAttribute="centerY" secondItem="w7L-mJ-t8s" secondAttribute="centerY" id="nQI-Ea-T2E"/>
+                        <constraint firstItem="FWo-4q-K43" firstAttribute="centerX" secondItem="w7L-mJ-t8s" secondAttribute="centerX" id="pC2-kY-Gwb"/>
+                        <constraint firstItem="FWo-4q-K43" firstAttribute="leading" secondItem="Eyc-Hm-vsJ" secondAttribute="trailing" constant="12" id="rkf-ei-WxE"/>
+                        <constraint firstItem="Eyc-Hm-vsJ" firstAttribute="leading" secondItem="w7L-mJ-t8s" secondAttribute="leading" constant="20" id="tu0-oO-LGa"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="fnl-2z-Ty3"/>
+            <color key="backgroundColor" name="Rhino"/>
+            <constraints>
+                <constraint firstItem="w7L-mJ-t8s" firstAttribute="bottom" secondItem="x2L-rU-3Q0" secondAttribute="bottom" id="1L4-cU-3bf"/>
+                <constraint firstItem="fnl-2z-Ty3" firstAttribute="trailing" secondItem="w7L-mJ-t8s" secondAttribute="trailing" id="6cD-Tt-8QE"/>
+                <constraint firstItem="x2L-rU-3Q0" firstAttribute="leading" secondItem="fnl-2z-Ty3" secondAttribute="leading" id="Iab-VG-nDT"/>
+                <constraint firstItem="w7L-mJ-t8s" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="Iei-z9-2gp"/>
+                <constraint firstItem="w7L-mJ-t8s" firstAttribute="top" secondItem="fnl-2z-Ty3" secondAttribute="top" id="cEH-vU-YXK"/>
+                <constraint firstItem="fnl-2z-Ty3" firstAttribute="trailing" secondItem="x2L-rU-3Q0" secondAttribute="trailing" id="g7L-1h-ELD"/>
+                <constraint firstItem="x2L-rU-3Q0" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" id="ol8-bc-XH4"/>
+            </constraints>
+            <point key="canvasLocation" x="136.64122137404578" y="19.718309859154932"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="back" width="48" height="48"/>
+        <namedColor name="CornflowerBlue">
+            <color red="0.43529411764705883" green="0.41960784313725491" blue="0.95294117647058818" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+        <namedColor name="Rhino">
+            <color red="0.17254901960784313" green="0.16470588235294117" blue="0.34901960784313724" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+    </resources>
+</document>

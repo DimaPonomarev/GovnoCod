@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "77F06CE3-5879-4D9B-92D6-E4ABAB86122C"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "933107F8-468A-48F5-94A3-5EB62B4DE8C9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ModsApp/Subscription/Flow/configs/IAPHandlerPoeTTT.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "153"
+            endingLineNumber = "153"
+            landmarkName = "completeRestoredStatusFunc(restoreProductID:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "933107F8-468A-48F5-94A3-5EB62B4DE8C9 - 901a413e3fa3df89"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ModsApp.IAPManagerPoeTTT.completeRestoredStatusFunc(restoreProductID: Swift.String) -&gt; ()"
+                  moduleName = "ModsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/picamonster/Documents/noname/melon7/untitled%20folder/ModsApp/Subscription/Flow/configs/IAPHandlerPoeTTT.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "153"
+                  endingLineNumber = "153"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "933107F8-468A-48F5-94A3-5EB62B4DE8C9 - 6bfe8257118d2a02"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool) -&gt; () in ModsApp.IAPManagerPoeTTT.completeRestoredStatusFunc(restoreProductID: Swift.String) -&gt; ()"
+                  moduleName = "ModsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/picamonster/Documents/noname/melon7/untitled%20folder/ModsApp/Subscription/Flow/configs/IAPHandlerPoeTTT.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "153"
+                  endingLineNumber = "153"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "933107F8-468A-48F5-94A3-5EB62B4DE8C9 - 6bfe8257118d2a02"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool) -&gt; () in ModsApp.IAPManagerPoeTTT.completeRestoredStatusFunc(restoreProductID: Swift.String) -&gt; ()"
+                  moduleName = "ModsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/picamonster/Documents/noname/melon7/untitled%20folder/ModsApp/Subscription/Flow/configs/IAPHandlerPoeTTT.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "153"
+                  endingLineNumber = "153"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "933107F8-468A-48F5-94A3-5EB62B4DE8C9 - 4d574dc4651e03e7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool) -&gt; () in ModsApp.IAPManagerPoeTTT.completeRestoredStatusFunc(restoreProductID: Swift.String) -&gt; ()"
+                  moduleName = "ModsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/picamonster/Downloads/untitled%20folder/ModsApp/Subscription/Flow/configs/IAPHandlerPoeTTT.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "153"
+                  endingLineNumber = "153"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "933107F8-468A-48F5-94A3-5EB62B4DE8C9 - d0a0cd80eb972be3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool) -&gt; () in ModsApp.IAPManagerPoeTTT.completeRestoredStatusFunc(restoreProductID: Swift.String) -&gt; ()"
+                  moduleName = "ModsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/picamonster/Downloads/untitled%20folder%202/ModsApp/Subscription/Flow/configs/IAPHandlerPoeTTT.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "153"
+                  endingLineNumber = "153"
+                  offsetFromSymbolStart = "160">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

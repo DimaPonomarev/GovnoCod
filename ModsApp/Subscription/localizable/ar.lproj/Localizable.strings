@@ -1,0 +1,186 @@
+/*
+  LocalizableSubscription.strings
+  Equalizer - Volume Booster EQ
+
+  Created by User on 04.05.2023.
+  
+*/
+
+/**/
+"iOSAfterID"="* يتم تجديد هذه النسخة التجريبية تلقائيًا لتصبح اشتراكًا مدفوعًا وستستمر في التجديد تلقائيًا حتى تقوم بالإلغاء. * يجب أن تكون مشتركًا لاستخدام هذا التطبيق. لا يوجد محتوى مجاني. * سيتم تحميل مدفوعات الاشتراك على حساب iTunes الخاص بك عند تأكيد الشراء. * سيتم تجديد الاشتراكات تلقائيًا وسيتم فرض الدفع على حساب iTunes الخاص بك ما لم يتم إيقاف التجديد التلقائي قبل 24 ساعة على الأقل من نهاية الفترة الحالية. تعتمد تكلفة التجديد على خطة الاشتراك الخاصة بك. خطط الاشتراك القياسية لدينا هي: * اشتراك لمدة أسبوع (%@) بالنسبة للعملات الأخرى ، يتوافق السعر مع نفس مستوى السعر في مصفوفة أسعار متجر التطبيقات. * سيتم تجديد الاشتراك بفترة تجريبية مجانية تلقائيًا إلى اشتراك مدفوع. يمكنك إلغاء أو إدارة التجديد التلقائي للإصدار التجريبي المجاني في إعدادات حسابك بعد الشراء. سيسري الإلغاء بعد 24 ساعة من اليوم الأخير من فترة الاشتراك الحالية وسيتم تخفيض تصنيفك إلى الخدمة المجانية. * يرجى ملاحظة: أي جزء غير مستخدم من فترة تجريبية مجانية مدتها 3 أيام (إذا تم عرضه) سيتم مصادرته عند شرائك اشتراكًا مميزًا خلال فترة التجربة المجانية. من فضلك ، لمزيد من المعلومات ، راجع سياسة الخصوصية وشروط الاستخدام.";
+/**/
+"iOSButtonID"="يكمل";
+/**/
+"iOSStart3daysTitleID"="ابدأ لمدة 3 أيام مجانًا ثم 4.99 دولارات أمريكية في الأسبوع";
+
+/**/
+"LoadingID"="تحميل";
+
+/**/
+"PrivacyID"="سياسة الخصوصية";
+
+/**/
+"restore"="يعيد";
+
+/**/
+"TermsID"="شروط الاستخدام";
+
+/**/
+"SliderID1"="احصل على موقع درع الموت الناري";
+/**/
+"SliderID2"="إكتشف 5 قدرات من سيج وغابة كورك";
+/**/
+"SliderID3"="جميع الكهوف والآبار على الخريطة";
+/**/
+"SliderID4"="جميع الأماكن التي يبلغ عددها 152 في الخريطة التفاعلية";
+/**/
+"SliderID5"="اجمع كل مجموعات الدروع حسب المواقع";
+
+/**/
+"Text0ID"="اختر مجموعة دروعك";
+
+/**/
+"Text17ID"="اختر القدرة المطلوبة";
+
+/**/
+"Text18ID"="قدرة أميبو";
+
+/**/
+"Text19ID"="قدرة الصمامات";
+
+/**/
+"Text20ID"="القدرة على الصعود";
+
+/**/
+"Text21ID"="استدعاء القدرة";
+
+/**/
+"Text22ID"="قدرة الكاميرا";
+
+/**/
+
+"Text30ID"="مشكلة الاتصال";
+"Text31ID"="يبدو أن اتصال الإنترنت غير متصل بالإنترنت ☹️";
+
+
+"continue" = "Continue";
+"textFirst" = "TEXT TEXT TEXT TEXT
+TEXT TEXT TEXT ";
+"textSecond" = "TEXT TEXT TEXT TEXT
+TEXT TEXT TEXT ";
+
+
+"view1Content1" = "TEXT TEXT";
+"view1Content2" = "TEXT TEXT";
+"view1Content3" = "TEXT TEXT";
+"view1Content4" = "TEXT TEXT";
+"view1Content5" = "TEXT TEXT";
+"view1Content6" = "TEXT TEXT";
+"view1Content7" = "TEXT TEXT";
+"view1Content8" = "TEXT TEXT";
+"view1Content9" = "TEXT TEXT";
+"view1Content10" = "TEXT TEXT";
+
+"view2Content1" = "TEXT TEXT";
+"view2Content2" = "TEXT TEXT";
+"view2Content3" = "TEXT TEXT";
+"view2Content4" = "TEXT TEXT";
+"view2Content5" = "TEXT TEXT";
+"view2Content6" = "TEXT TEXT";
+"view2Content7" = "TEXT TEXT";
+"view2Content8" = "TEXT TEXT";
+"view2Content9" = "TEXT TEXT";
+"view2Content10" = "TEXT TEXT";
+
+
+"slider_one" = "TEXT TEXT TEXT TEXT
+TEXT TEXT TEXT ";
+"slider_two" = "TEXT TEXT TEXT TEXT
+TEXT TEXT TEXT ";
+"slider_three" = "TEXT TEXT TEXT TEXT
+TEXT TEXT TEXT ";
+"slider_four" = "TEXT TEXT TEXT TEXT
+TEXT TEXT TEXT ";
+"slider_five" = "TEXT TEXT TEXT TEXT
+TEXT TEXT TEXT ";
+
+
+"restore" = "Restore";
+"price_label" = "Start 3-days for FREE \n Then 000000000 /week";
+"price_label_bold" = " $5.99";
+
+"agreement_full_text" = "* This trial automatically renews into a paid subscription and will continue to automatically renew until you cancel.* You need to be subscribed to use this app. No free content.* Subscription payments will be charged to your iTunes account at confirmation of your purchase.* Subscriptions will automatically renew and payment will be charged to your iTunes account unless auto-renew is turned off at least 24 hours prior to the end of the current period. The cost of the renewal depends on your Subscription Plan. Our standard Subscription Plans are:* 1-week Subscription (000000000).  For other currencies, the price corresponds to the same price tier on the App Store Pricing Matrix.* Subscription with a free trial period will automatically renew to a paid subscription. You can cancel or manage your free trial’s auto-renewal in your Account Settings after purchase. The cancellation will take effect 24-hours after the last day of the current subscription period and you will be downgraded to the free service.* Please note: any unused portion of a free trial period of 3 days(if offered) will be forfeited when you purchase a premium subscription during the free trial period.Please, for more information see our Privacy Policy and Terms of Use.";
+"terms_of_use" = "Terms of Use";
+"privacy_policy" = "Privacy Policy";
+
+"error_iap" = "Error";
+"inval_prod_id" = "Invalid product";
+"faledRestore" = "Faled to restore";
+"notPurchases" = "You not have purchases";
+
+"melonMods" = "MELON MODS";
+"emptyLabel" = "NO SAVED WORKS YET";
+
+"downloadLabel" = "download";
+"shareLabel" = "share";
+"startEditModeLabel" = "Start Edit Mode";
+"modDescription" = "Mod Description";
+"subsInfo" = "SUBSCRIPTION INFO";
+"settings" = "settings";
+"categoriesLabel" = "categories";
+"loading" = "Loading";
+"Can’t save mod without name" = "Can’t save mod without name";
+
+"My_Works" = "MY WORKS";
+"Mods_" = "MODS";
+"Editor_" = "EDITOR";
+
+"MISC TEMPLATES" = "MISC TEMPLATES";
+"LIVING TEMPLATES" = "LIVING TEMPLATES";
+
+"SET ITEM SETTINGS" = "SET ITEM SETTINGS";
+"SET COLLIDERS" = "SET COLLIDERS";
+"SELECT TEXTURE" = "SELECT TEXTURE";
+"SET PROPRTIES" = "SET PROPERTIES";
+
+"search" = "Name";
+
+
+"success" = "Success";
+"success_completed" = "Action done!";
+
+"show_all" = "VIEW ALL";
+
+"Subscription" = "Subscription";
+"watchVideo" = "Watch Video";
+
+"firstLabel_s" = "Hooray!";
+"descriptionTitle_s" = "You have received an exclusive offer for a subscription to Melon Playground!
+Our paid subscription will give you access to the full collection of tools and skins, which will help you create even more Blue scenes. ";
+"thirdLabel_s" = "Click the \"Subscribe\" button and start creating your masterpieces today!";
+"actionTitle_s" = "Subscribe!";
+
+"firstLabel_w" = "Welcome to Melon Playground.";
+"descriptionTitle_w" = "To start playing and enjoying this exciting platform, we invite you to watch our short video and get an Blue prize.";
+"thirdLabel_w" = "Click on the \"Watch now\" button and enjoy our game to the fullest!";
+"actionTitle_w" = "Watch now";
+
+"Enabled" = "Enabled";
+"Disabled" = "DISABLED";
+"saveChange" = "Do you want to save changes?";
+"cancel" = "Cancel";
+
+"nothingToSave" = "Nothing to saved";
+
+"successDownloadFile" = "Downloading successful";
+"successDownloadFile2" = "File saved at `Files`";
+
+"wait" = "Waiting";
+
+"load_texture" = "LOAD TEXTURE:";
+
+"noName" = "Can't save mod without name";
+"noInternetConnection" = "No internet connection";
+
+
+
